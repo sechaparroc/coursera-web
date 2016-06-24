@@ -59,10 +59,13 @@ section .title{
 	color: #2d4861;
 }
 
+a{
+  color:#C8F4E7;
+}
 
 a:hover, a:visited, a:link, a:active
 {
   font-size: 125%;
-  color: #CCE7FC;
+  color:#C8F4E7;
   text-decoration: none;
 }
