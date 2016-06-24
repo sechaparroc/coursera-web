@@ -1,0 +1,68 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #272D2D;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#navbar-component {
+  background-color: #B8C5D6;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand{
+  font-family: 'Arial', serif;
+  font-size: 1.5em;
+  text-transform: uppercase;
+}
+
+section{
+	border: 0px;
+	background: #7D849C;
+	margin: 15px 15px 15px 15px;
+}
+
+section .title{
+ 	border: 0px;
+	overflow: auto; 	
+	font-size: 125%;
+	color: #C8F4E7;
+}
+
+.title{
+	font-size: 250%;
+	color: #6999FF;
+}
+
+.content{
+	color: white;
+	padding: 5px;
+}
+
+.beef{
+	background: #63009d;
+	color: #8ee8ff;
+}
+
+.chicken{	
+	background: #A39BA8;
+	color: #397835;
+}
+
+.sushi{
+	background: #f06969;
+	color: #2d4861;
+}
+
+
+a:hover, a:visited, a:link, a:active
+{
+  font-size: 125%;
+  color: #CCE7FC;
+  text-decoration: none;
+}
